@@ -13,7 +13,6 @@
                                 </div>
                             </div>
                         </div>
-                        <label class="col-md-2">性別</label>
                         <div class="col-md-6">
                             <p class="gender mx-auto">{{ str_limit($headline->gender, 650) }}</p>
                         </div>
